@@ -21,6 +21,7 @@ Requirements:
     Turtle module
 Instructions for Running the Game:
     Ensure Python is installed on your system.
+    Ensure turtle module is installed on your code editor.
     Run the Snake_game.py script using a Python interpreter.
     Use the arrow keys to control the snake and enjoy the game!
     Feel free to contribute, modify, or extend the game as needed. Have fun playing!
